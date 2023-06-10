@@ -24,12 +24,12 @@ Below are some images of my implementation along with a sketch:
 
 ![Sketch](images/sketch.png)
 
-<img src="images/1.jpg"  width="300">
+![Image 1](images/1.jpg)
 
-<img src="images/2.jpg"  width="300">
+![Image 2](images/2.jpg)
 
-<img src="images/3.jpg"  width="300">
+![Image 3](images/3.jpg)
 
-<img src="images/4.jpg"  width="300">
+![Image 4](images/4.jpg)
 
-<img src="images/5.jpg"  width="300">
+![Image 5](images/5.jpg)
